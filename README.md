@@ -19,3 +19,5 @@ Ziel war es, praktische Erfahrung in der Backend-Entwicklung mit ABAP OO sowie i
 
 ## Ergebnis
 Das Projekt zeigt die Umsetzung eines einfachen SAP-Backend-Szenarios mit funktionierender Datenmodellierung, Datenbefüllung und auswertbaren Abfragen. Die Projektdokumentation (PDF) enthält Screenshots der Implementierung.
+
+**Projektdokumentation (PDF):** [Download hier](Projekt_Revathi_Krishnamoorthy.pdf)
